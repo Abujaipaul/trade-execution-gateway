@@ -14,3 +14,5 @@ A production-ready trade execution flow simulating a live fintech/brokerage envi
 * React 18 (useState, useEffect, useRef, useContext)
 * Vanilla CSS
 * Pure JavaScript (ES6+)
+
+......
